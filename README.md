@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PyLinC
+- 👋 Hi, I’m @Pylinc
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
